@@ -7,7 +7,7 @@ Created on Sun Apr  7 22:58:12 2019
 
 import pymongo
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import numpy as np
 
 import dash
