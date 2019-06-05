@@ -166,6 +166,7 @@ accident_age_bins = accident_age[bins]
 
 
 app = dash.Dash()
+server = app.server
 
 app.layout = html.Div(children=[
         
