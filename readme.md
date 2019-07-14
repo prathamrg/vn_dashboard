@@ -7,3 +7,7 @@ App User data is aggregated and fed to the dashboard to construct the various in
 1. High Level Distribution of Symptoms and Accidents (bar charts)
 2. Distribution of Symptoms and Accidents by Gender (pyramid charts)
 3. Distribution of Symptoms and Accidents by Age Group (pie charts)
+
+This dashboard is useful for rural health officers to derive interesting insights about the app-users (people of his rural constituency) like:
+1. Which is the most common symptom ocurring in children aged 1 to 10 
+2. What kind of accidents are most common for women, (for e.g. snake bites, suggesting a need for installing more street-lights in the area)
